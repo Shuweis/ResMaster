@@ -1,7 +1,7 @@
 <!-- # ResMaster -->
 
 <div align="center">
-  <img src="assets/ResMaster_logo_transparent-removebg.png"  width=600>
+  <img src="assets/ResMaster_logo.png"  width=600>
 </div>
 
 ### <div align="center">🚀 ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance</div> 
