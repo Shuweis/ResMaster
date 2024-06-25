@@ -58,7 +58,7 @@ ResMaster employs Structural and Fine-Grained Guidance to ensure structural inte
 
 ## 🔥 Update
 
-- 2024.4.16 - 🛳️ This repo is released.
+- 2024.6.25 - 🛳️ This repo is released.
 
 ## 🎓 Citation
 
